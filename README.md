@@ -1,7 +1,5 @@
 # NISCAIR-MLCC-Notes
 
-Keras - well documented codes for MLCC session on 19th November, 2018 at CSIR-NISCAIR - New Delhi
-
 ---
 ## Order to be followed
 1. KerasBasics_1 
@@ -44,7 +42,3 @@ Keras - well documented codes for MLCC session on 19th November, 2018 at CSIR-NI
 
 [![LINK TO YOUTUBE](https://img.youtube.com/vi/FmpDIaiMIeA/0.jpg)](https://www.youtube.com/watch?v=FmpDIaiMIeA)
 
-- Slides
- [Click here](http://brohrer.github.io/how_convolutional_neural_networks_work.html) 
-
- [ Credits : Brandon Rohrer ]
